@@ -1,0 +1,57 @@
+table, th, td {
+  border: 1px solid black;
+  border: none;
+  text-align: center;
+}
+
+th {
+  width: 80px;
+}
+
+#brown {
+  background: brown;
+}
+
+#browntext {
+  color: brown;
+}
+
+#burlywood {
+  background: burlywood;
+}
+
+#burlywoodtext {
+  color: burlywood;
+}
+
+#darkkhaki {
+  background: darkkhaki;
+}
+
+#darkkhakitext {
+  color: darkkhaki;
+}
+
+#cadetblue {
+  background: cadetblue;
+}
+
+#cadetbluetext {
+  color: cadetblue;
+}
+
+#darkgoldenrod {
+  background: darkgoldenrod;
+}
+
+#darkgoldenrodtext {
+  color: darkgoldenrod;
+}
+
+#darkolivegreen {
+  background: darkolivegreen;
+}
+
+#darkolivegreentext {
+  color: darkolivegreen;
+}
